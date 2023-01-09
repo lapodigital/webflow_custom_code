@@ -2,7 +2,8 @@
 
 const swup = new Swup({
 
-plugins: [new SwupFadeTheme()]
+// plugins: [new SwupFadeTheme()]
+
 
 });
 
