@@ -10,7 +10,7 @@ const swup = new Swup({
 
 // parallax background image 
 
-$('.parallax_bg').paroller();
+$('.parallax_bg_image').paroller();
 
 
 // custom cursor
