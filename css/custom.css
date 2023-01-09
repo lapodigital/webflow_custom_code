@@ -7,3 +7,7 @@ body {
   min-height: 100%;
   height: auto;
 }
+
+
+.word-line {overflow: hidden;}
+.skew-up {opacity: 0;}
