@@ -9,7 +9,7 @@ plugins: [new SwupFadeTheme()]
 
 // parallax background image 
 
-$('.jumbotron').paroller();
+$('.parallax_bg').paroller();
 
 
 // custom cursor
